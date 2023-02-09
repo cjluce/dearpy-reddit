@@ -7,3 +7,11 @@ This file must be placed in the root directory of your project. It must contain 
 2. reddit password
 3. personal use script token from https://www.reddit.com/prefs/apps/
 4. secret token from https://www.reddit.com/prefs/apps/
+
+e.g.,
+```
+reddituser
+redditpass
+apptoken
+supersecrettoken
+```
